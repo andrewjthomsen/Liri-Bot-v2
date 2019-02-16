@@ -1,1 +1,2 @@
-# Liri-Bot-v2
+# Liri
+Liri Bot

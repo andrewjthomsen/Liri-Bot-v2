@@ -1,0 +1,29 @@
+{
+  "name": "Liri",
+  "version": "1.0.0",
+  "description": "Liri Bot",
+  "main": "index.js",
+  "dependencies": {
+    "axios": "^0.18.0",
+    "dotenv": "^6.2.0",
+    "moment": "^2.24.0",
+    "node-spotify-api": "^1.0.7",
+    "request": "^2.88.0",
+    "twitter": "^1.7.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/andrewjthomsen/Liri.git"
+  },
+  "keywords": [],
+  "author": "Andrew J Thomsen",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/andrewjthomsen/Liri/issues"
+  },
+  "homepage": "https://github.com/andrewjthomsen/Liri#readme"
+}
